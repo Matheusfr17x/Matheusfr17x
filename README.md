@@ -6,5 +6,7 @@ _____________BEM VINDO AO MEU PERFIL_____________
 - 🏫 IF SUL DE MINAS CAMPUS MACHADO               
 _________________________________________________
 <div>
-  <a href="https://beacons.ai/Matheusfr17x"
+<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=Matheusfr17x&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=Matheusfr17x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
