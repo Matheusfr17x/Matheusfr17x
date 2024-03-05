@@ -10,10 +10,18 @@ _____________BEM VINDO AO MEU PERFIL_____________
 - 🏫 IF SUL DE MINAS CAMPUS MACHADO               
 _________________________________________________
 <div>
-<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=Matheusfr17x&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=Matheusfr17x&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheusfr17x&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Matheus Ribeiro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusfr17x&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
+
 </div>
 _________________________________________________
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheusfr17x&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=23238E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheusfr17x&theme=dracula&row=1&no-bg=true&column=7&margin-w=30&margin-h=20" />
+</p>
+
